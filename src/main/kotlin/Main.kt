@@ -6,8 +6,7 @@ fun main() {
 var phonenumber : String = "07184992299"
     println(phonenumber)
     var weight = 56.5
-    println(weight)
-    var citizenshipkenyan:Boolean =true
+        var citizenshipkenyan:Boolean =true
     println(citizenshipkenyan)
 
 
